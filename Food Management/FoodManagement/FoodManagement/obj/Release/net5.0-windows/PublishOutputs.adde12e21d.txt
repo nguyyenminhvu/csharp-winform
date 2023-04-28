@@ -1,0 +1,11 @@
+C:\Users\ACER\Desktop\Food\FoodManagement.exe
+C:\Users\ACER\Desktop\Food\FoodManagement.dll
+C:\Users\ACER\Desktop\Food\FoodManagement.deps.json
+C:\Users\ACER\Desktop\Food\FoodManagement.runtimeconfig.json
+C:\Users\ACER\Desktop\Food\FoodManagement.pdb
+C:\Users\ACER\Desktop\Food\System.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Food\runtimes\win-arm64\native\sni.dll
+C:\Users\ACER\Desktop\Food\runtimes\win-x64\native\sni.dll
+C:\Users\ACER\Desktop\Food\runtimes\win-x86\native\sni.dll
+C:\Users\ACER\Desktop\Food\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ACER\Desktop\Food\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
